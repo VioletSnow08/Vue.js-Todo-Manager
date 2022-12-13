@@ -14,7 +14,7 @@
     "bootstrap-vue": "^2.15.0",
     "core-js": "^3.6.5",
     "cors": "^2.8.5",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "firebase": "^7.17.1",
     "mysql": "^2.18.1",
     "portal-vue": "^2.1.7",
